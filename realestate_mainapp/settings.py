@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-axc512^_6@s55qr9d&6qe(!bl=l2h!-e!jh=s+c@5=y!ez$@^a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://agence-immobiliwe.onrender.com/']
+ALLOWED_HOSTS = ['agence-immobiliwe.onrender.com']
 
 
 # Application definition
